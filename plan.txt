@@ -1,0 +1,29 @@
+-- home
+-- service/product
+-- news (dynamic data/page)
+-- gallery
+-- contact us
+
+
+[table]
+-- post
+	- post id
+	- menu_id
+	- date
+	- title
+	- content
+	- permalink
+	
+-- option
+	- username
+	- password (md5)
+	- email
+	- contact
+
+-- menu
+	- menu id
+	- name
+	- permalink
+	- parent id
+	
+-- gallery
